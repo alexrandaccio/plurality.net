@@ -7,7 +7,7 @@ translations:
     plurality: 'Capítulo V 7',
     subtitle: 'Mercados Sociais',
     authorsLead: 'Por E. Glen Weyl, Audrey Tang e Comunidade ⿻',
-    translatorsLead: 'Traduzido por:',
+    translatorsLead: 'Traduzido por: bt3gl',
     return: 'retornar',
     chapters: 'capítulos',
   }
@@ -15,4 +15,4 @@ language: { en: 'Portuguese', iso6392B: 'por', locale: 'V 7 Mercados Sociais' }
 chapterid: { chapterid: 5, chapterid_subid: '5-7'}
 translators: []
 ---
-{% readdynamiccode 'https://raw.githubusercontent.com/lilit-org/plurality-portuguese/main/contents/portuguese/5-7-mercados-sociais.md' %} 
+{% readdynamiccode 'https://raw.githubusercontent.com/lilit-org/plurality-portuguese/main/contents/portuguese/5-7-mercados-sociais.md' %}

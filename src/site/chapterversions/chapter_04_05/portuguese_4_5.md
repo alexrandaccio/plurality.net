@@ -7,7 +7,7 @@ translations:
     plurality: 'Capítulo IV 5',
     subtitle: 'Acesso',
     authorsLead: 'Por E. Glen Weyl, Audrey Tang e Comunidade ⿻',
-    translatorsLead: 'Traduzido por:',
+    translatorsLead: 'Traduzido por: bt3gl',
     return: 'retornar',
     chapters: 'capítulos',
   }

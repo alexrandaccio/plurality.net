@@ -7,7 +7,7 @@ translations:
     plurality: 'Capítulo V 0',
     subtitle: 'Tecnologia Colaborativa e Democracia',
     authorsLead: 'Por E. Glen Weyl, Audrey Tang e Comunidade ⿻',
-    translatorsLead: 'Traduzido por:',
+    translatorsLead: 'Traduzido por: bt3gl',
     return: 'retornar',
     chapters: 'capítulos',
   }

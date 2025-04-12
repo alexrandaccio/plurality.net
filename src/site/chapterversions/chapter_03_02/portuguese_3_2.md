@@ -7,7 +7,7 @@ translations:
     plurality: 'Capítulo III 2',
     subtitle: 'Sociedade Conectada',
     authorsLead: 'Por E. Glen Weyl, Audrey Tang e Comunidade ⿻',
-    translatorsLead: 'Traduzido por:',
+    translatorsLead: 'Traduzido por: bt3gl',
     return: 'retornar',
     chapters: 'capítulos',
   }

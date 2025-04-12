@@ -7,7 +7,7 @@ translations:
     plurality: 'Capítulo IV 1',
     subtitle: 'Identidade e Personalidade',
     authorsLead: 'Por E. Glen Weyl, Audrey Tang e Comunidade ⿻',
-    translatorsLead: 'Traduzido por:',
+    translatorsLead: 'Traduzido por: bt3gl',
     return: 'retornar',
     chapters: 'capítulos',
   }
@@ -15,4 +15,4 @@ language: { en: 'Portuguese', iso6392B: 'por', locale: 'IV 1 Identidade e Person
 chapterid: { chapterid: 4, chapterid_subid: '4-1'}
 translators: []
 ---
-{% readdynamiccode 'https://raw.githubusercontent.com/lilit-org/plurality-portuguese/main/contents/portuguese/4-1-identidade-e-personalidade.md' %} 
+{% readdynamiccode 'https://raw.githubusercontent.com/lilit-org/plurality-portuguese/main/contents/portuguese/4-1-identidade-e-personalidade.md' %}

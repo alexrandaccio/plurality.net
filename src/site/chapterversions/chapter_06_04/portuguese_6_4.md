@@ -7,7 +7,7 @@ translations:
     plurality: 'Capítulo VI 4',
     subtitle: 'Meio Ambiente',
     authorsLead: 'Por E. Glen Weyl, Audrey Tang e Comunidade ⿻',
-    translatorsLead: 'Traduzido por:',
+    translatorsLead: 'Traduzido por: bt3gl',
     return: 'retornar',
     chapters: 'capítulos',
   }

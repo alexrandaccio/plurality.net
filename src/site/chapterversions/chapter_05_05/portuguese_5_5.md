@@ -1,13 +1,13 @@
 ---
 title: 'Administração Adaptativa'
-githubLink: 'https://github.com/lilit-org/plurality-portuguese/blob/main/contents/portuguese/5-5-administracao-adaptativa.md'
+githubLink: 'https://github.com/lilit-org/plurality-portuguese/blob/main/contents/portuguese/5-5-administra%C3%A7%C3%A3o-adaptativa.md'
 dateStartedString: { day: '23', month: '02', year: '2024' }
 translations:
   {
     plurality: 'Capítulo V 5',
     subtitle: 'Administração Adaptativa',
     authorsLead: 'Por E. Glen Weyl, Audrey Tang e Comunidade ⿻',
-    translatorsLead: 'Traduzido por:',
+    translatorsLead: 'Traduzido por: bt3gl',
     return: 'retornar',
     chapters: 'capítulos',
   }
@@ -15,4 +15,4 @@ language: { en: 'Portuguese', iso6392B: 'por', locale: 'V 5 Administração Adap
 chapterid: { chapterid: 5, chapterid_subid: '5-5'}
 translators: []
 ---
-{% readdynamiccode 'https://raw.githubusercontent.com/lilit-org/plurality-portuguese/main/contents/portuguese/5-5-administracao-adaptativa.md' %} 
+{% readdynamiccode 'https://raw.githubusercontent.com/lilit-org/plurality-portuguese/main/contents/portuguese/5-5-administra%C3%A7%C3%A3o-adaptativa.md' %}

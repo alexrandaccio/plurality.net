@@ -7,7 +7,7 @@ translations:
     plurality: 'Capítulo III',
     subtitle: 'Vivendo em um Mundo ⿻',
     authorsLead: 'Por E. Glen Weyl, Audrey Tang e Comunidade ⿻',
-    translatorsLead: 'Traduzido por:',
+    translatorsLead: 'Traduzido por: bt3gl',
     return: 'retornar',
     chapters: 'capítulos',
   }
@@ -15,4 +15,4 @@ language: { en: 'Portuguese', iso6392B: 'por', locale: 'III Vivendo em um Mundo 
 chapterid: { chapterid: 3, chapterid_subid: '3-1'}
 translators: []
 ---
-{% readdynamiccode 'https://raw.githubusercontent.com/lilit-org/plurality-portuguese/main/contents/portuguese/3-1-vivendo-em-um-mundo-⿻.md' %} 
+{% readdynamiccode 'https://raw.githubusercontent.com/lilit-org/plurality-portuguese/main/contents/portuguese/3-1-vivendo-em-um-mundo-⿻.md' %}

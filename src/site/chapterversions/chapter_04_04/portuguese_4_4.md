@@ -7,7 +7,7 @@ translations:
     plurality: 'Capítulo IV 4',
     subtitle: 'Propriedade e Contrato',
     authorsLead: 'Por E. Glen Weyl, Audrey Tang e Comunidade ⿻',
-    translatorsLead: 'Traduzido por:',
+    translatorsLead: 'Traduzido por: bt3gl',
     return: 'retornar',
     chapters: 'capítulos',
   }
