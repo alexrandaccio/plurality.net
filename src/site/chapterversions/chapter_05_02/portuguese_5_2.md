@@ -1,17 +1,17 @@
 ---
-title: 'Realidade Compartilhada Imersiva'
+title: 'Realidade Imersiva Compartilhada'
 githubLink: 'https://github.com/lilit-org/plurality-portuguese/blob/main/contents/portuguese/5-2-realidade-imersiva-compartilhada.md'
 dateStartedString: { day: '19', month: '12', year: '2023' }
 translations:
   {
     plurality: 'Capítulo V 2',
-    subtitle: 'Realidade Compartilhada Imersiva',
+    subtitle: 'Realidade Imersiva Compartilhada',
     authorsLead: 'Por E. Glen Weyl, Audrey Tang e Comunidade ⿻',
     translatorsLead: 'Traduzido por: bt3gl',
     return: 'retornar',
     chapters: 'capítulos',
   }
-language: { en: 'Portuguese', iso6392B: 'por', locale: 'V 2 Realidade Compartilhada Imersiva' }
+language: { en: 'Portuguese', iso6392B: 'por', locale: 'V 2 Realidade Imersiva Compartilhada' }
 chapterid: { chapterid: 5, chapterid_subid: '5-2'}
 translators: []
 ---
