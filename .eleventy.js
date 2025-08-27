@@ -1,5 +1,5 @@
 const pluginTOC = require('eleventy-plugin-toc')
-const htmlmin = require("html-minifier");
+const htmlmin = require("html-minifier-terser");
 const EleventyFetch = require('@11ty/eleventy-fetch');
 const { EleventyRenderPlugin } = require('@11ty/eleventy');
 const lodash = require("lodash");
@@ -89,13 +89,19 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
     if( outputPath.endsWith(".html") ) {
+    try {
       let minified = htmlmin.minify(content, {
         useShortDoctype: true,
         removeComments: true,
         collapseWhitespace: true
       });
       return minified;
+    } catch (e) {
+      console.error("Error minifying", outputPath, e);
+      return content;
     }
+    }
+  return content;
   });
 
   eleventyConfig.addFilter("sortDataByLanguageIso", (obj) => {
