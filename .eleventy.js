@@ -13,7 +13,7 @@ module.exports = function(eleventyConfig) {
       .use(require('markdown-it-footnote'))
     );
   eleventyConfig.addPlugin(pluginTOC, {
-    tags: ['h1', 'h2', 'h3'],
+    tags: ['h1', 'h2', 'h3', 'h4'],
     ul: true,
     wrapper: 'div'
   });
