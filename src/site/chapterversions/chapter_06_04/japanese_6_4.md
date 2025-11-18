@@ -1,6 +1,6 @@
 ---
 title: ''
-githubLink: 'https://github.com/akinorioyama/plurality/blob/main/contents/japanese/6-4-%E7%92%B0%E5%A2%83.md'
+githubLink: 'https://github.com/nishio/plurality-japanese/blob/japanese/contents/japanese/6-4-%E7%92%B0%E5%A2%83.md'
 dateStartedString: { day: '01', month: '09', year: '2025' }
 translations:
   {
@@ -15,4 +15,4 @@ language: { en: 'Japanese/日本語', iso6392B: 'jpn', locale: '6 4 環境' }
 chapterid: { chapterid: 6, chapterid_subid: '6-4', section_title: '環境' }
 translators: [ '山形浩生' ]
 ---
-{% readdynamiccode 'https://raw.githubusercontent.com/akinorioyama/plurality/main/contents/japanese/6-4-%E7%92%B0%E5%A2%83.md' %}
+{% readdynamiccode 'https://raw.githubusercontent.com/nishio/plurality-japanese/japanese/contents/japanese/6-4-%E7%92%B0%E5%A2%83.md' %}
