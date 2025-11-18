@@ -1,6 +1,6 @@
 ---
 title: ''
-githubLink: 'https://github.com/akinorioyama/plurality/blob/main/contents/japanese/3-2-%E3%81%A4%E3%81%AA%E3%81%8C%E3%81%A3%E3%81%9F%E7%A4%BE%E4%BC%9A.md'
+githubLink: 'https://github.com/nishio/plurality-japanese/blob/japanese/contents/japanese/3-2-%E3%81%A4%E3%81%AA%E3%81%8C%E3%81%A3%E3%81%9F%E7%A4%BE%E4%BC%9A.md'
 dateStartedString: { day: '01', month: '09', year: '2025' }
 translations:
   {
@@ -15,4 +15,4 @@ language: { en: 'Japanese/日本語', iso6392B: 'jpn', locale: '3 2 つながっ
 chapterid: { chapterid: 3, chapterid_subid: '3-2', section_title: 'つながった社会' }
 translators: [ '山形浩生' ]
 ---
-{% readdynamiccode 'https://raw.githubusercontent.com/akinorioyama/plurality/main/contents/japanese/3-2-%E3%81%A4%E3%81%AA%E3%81%8C%E3%81%A3%E3%81%9F%E7%A4%BE%E4%BC%9A.md' %}
+{% readdynamiccode 'https://raw.githubusercontent.com/nishio/plurality-japanese/japanese/contents/japanese/3-2-%E3%81%A4%E3%81%AA%E3%81%8C%E3%81%A3%E3%81%9F%E7%A4%BE%E4%BC%9A.md' %}

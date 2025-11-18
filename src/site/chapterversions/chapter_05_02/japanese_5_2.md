@@ -1,6 +1,6 @@
 ---
 title: ''
-githubLink: 'https://github.com/akinorioyama/plurality/blob/main/contents/japanese/5-2-%E6%B2%A1%E5%85%A5%E5%9E%8B%E5%85%B1%E6%9C%89%E7%8F%BE%E5%AE%9F%EF%BC%88ISR%EF%BC%89.md'
+githubLink: 'https://github.com/nishio/plurality-japanese/blob/japanese/contents/japanese/5-2-%E6%B2%A1%E5%85%A5%E5%9E%8B%E5%85%B1%E6%9C%89%E7%8F%BE%E5%AE%9F%EF%BC%88ISR%EF%BC%89.md'
 dateStartedString: { day: '01', month: '09', year: '2025' }
 translations:
   {
@@ -15,4 +15,4 @@ language: { en: 'Japanese/日本語', iso6392B: 'jpn', locale: '5 2 没入型共
 chapterid: { chapterid: 5, chapterid_subid: '5-2', section_title: '没入型共有現実（ISR）' }
 translators: [ '山形浩生' ]
 ---
-{% readdynamiccode 'https://raw.githubusercontent.com/akinorioyama/plurality/main/contents/japanese/5-2-%E6%B2%A1%E5%85%A5%E5%9E%8B%E5%85%B1%E6%9C%89%E7%8F%BE%E5%AE%9F%EF%BC%88ISR%EF%BC%89.md' %}
+{% readdynamiccode 'https://raw.githubusercontent.com/nishio/plurality-japanese/japanese/contents/japanese/5-2-%E6%B2%A1%E5%85%A5%E5%9E%8B%E5%85%B1%E6%9C%89%E7%8F%BE%E5%AE%9F%EF%BC%88ISR%EF%BC%89.md' %}

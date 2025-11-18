@@ -1,6 +1,6 @@
 ---
 title: ''
-githubLink: 'https://github.com/akinorioyama/plurality/blob/main/contents/japanese/5-4-%E6%8B%A1%E5%BC%B5%E7%86%9F%E8%AD%B0.md'
+githubLink: 'https://github.com/nishio/plurality-japanese/blob/japanese/contents/japanese/5-4-%E6%8B%A1%E5%BC%B5%E7%86%9F%E8%AD%B0.md'
 dateStartedString: { day: '01', month: '09', year: '2025' }
 translations:
   {
@@ -15,4 +15,4 @@ language: { en: 'Japanese/日本語', iso6392B: 'jpn', locale: '5 4 拡張熟議
 chapterid: { chapterid: 5, chapterid_subid: '5-4', section_title: '拡張熟議' }
 translators: [ '山形浩生' ]
 ---
-{% readdynamiccode 'https://raw.githubusercontent.com/akinorioyama/plurality/main/contents/japanese/5-4-%E6%8B%A1%E5%BC%B5%E7%86%9F%E8%AD%B0.md' %}
+{% readdynamiccode 'https://raw.githubusercontent.com/nishio/plurality-japanese/japanese/contents/japanese/5-4-%E6%8B%A1%E5%BC%B5%E7%86%9F%E8%AD%B0.md' %}

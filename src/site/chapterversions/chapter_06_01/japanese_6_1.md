@@ -1,6 +1,6 @@
 ---
 title: ''
-githubLink: 'https://github.com/akinorioyama/plurality/blob/main/contents/japanese/6-1-%E8%81%B7%E5%A0%B4.md'
+githubLink: 'https://github.com/nishio/plurality-japanese/blob/japanese/contents/japanese/6-1-%E8%81%B7%E5%A0%B4.md'
 dateStartedString: { day: '01', month: '09', year: '2025' }
 translations:
   {
@@ -15,4 +15,4 @@ language: { en: 'Japanese/日本語', iso6392B: 'jpn', locale: '6 1 職場' }
 chapterid: { chapterid: 6, chapterid_subid: '6-1', section_title: '職場' }
 translators: [ '山形浩生' ]
 ---
-{% readdynamiccode 'https://raw.githubusercontent.com/akinorioyama/plurality/main/contents/japanese/6-1-%E8%81%B7%E5%A0%B4.md' %}
+{% readdynamiccode 'https://raw.githubusercontent.com/nishio/plurality-japanese/japanese/contents/japanese/6-1-%E8%81%B7%E5%A0%B4.md' %}
