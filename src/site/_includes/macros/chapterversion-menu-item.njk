@@ -1,7 +1,7 @@
-{% macro chapterVersionMenuItem(githubLink, dayStarted, yearStarted, monthStarted, language, contributeTranslated, pluralityTranslated,subtitleTranslated, pageTitle, pageUrl,chapterid_subid) %}
+{% macro chapterVersionMenuItem(githubLink, dayStarted, yearStarted, monthStarted, language, contributeTranslated, pluralityTranslated,subtitleTranslated, pageTitle, pageUrl,chapterid_subid,startOfSection) %}
 
 <p>
-      {% if language=='english' %}
+      {% if startOfSection == true %}
 
 <div style="color:#26b72b; background:rgba(56,56,56,0.8) ; border-radius: 32px; padding:28px;gap:24px;margin-top:16px; margin-bottom; 16px;">
         <div id="sections_subsection">
