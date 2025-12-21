@@ -716,11 +716,21 @@ margin-right:calc(var(--padding-step-4)*2);
 <div id="version-menu">
   <ol id="version-ol">
 <div tabindex="0">
+    {% set current_chapter = '0' %}
+    {% set targetChapter = null %}
     {% for version in collections.chapterversions |sortDataByChapteridSubidLanguageIso %}
-{% if ((version.data.language.en) == 'english')%}
+        {% set startOfSection = false %}
+        {% for item in collections.chapterversions %}
+            {% if (item.data.chapterid.chapterid_subid == version.data.chapterid.chapterid_subid) and item.data.language.en == "english" %}
+                {% set targetChapter = item %}
+            {% endif %}
+        {% endfor %}
+        {% if ((version.data.chapterid.chapterid_subid) != current_chapter)%}
+            {% set current_chapter = version.data.chapterid.chapterid_subid %}
+            {% set startOfSection = true %}
 </div>
 {% if ((version.data.chapterid.chapterid_subid) == '0-1') %}
-          <li tabindex="0" style="font-size:40px;padding:0 28px;">Part {{ version.data.chapterid.chapterid }} {{ version.data.chapterid.section_title }}</li>
+          <li tabindex="0" style="font-size:40px;padding:0 28px;">Part {{ targetChapter.data.chapterid.chapterid }} {{targetChapter.data.chapterid.section_title}}</li>
     <div tabindex="0">
         {% endif %}
 
@@ -733,7 +743,7 @@ margin-right:calc(var(--padding-step-4)*2);
     or ((version.data.chapterid.chapterid_subid) == '7-0' )
     %}
 </div>
-          <li tabindex="0" style="font-size:40px;padding:56px 28px 0px 28px;">Part {{ version.data.chapterid.chapterid }} {{ version.data.chapterid.section_title }}</li>
+          <li tabindex="0" style="font-size:40px;padding:56px 28px 0px 28px;">Part {{ targetChapter.data.chapterid.chapterid }} {{targetChapter.data.chapterid.section_title}}</li>
     <div tabindex="0">
         {% endif %}
         {% endif %}
@@ -749,7 +759,8 @@ margin-right:calc(var(--padding-step-4)*2);
           subtitleTranslated = version.data.translations.subtitle,
           pageTitle = version.data.title,
           pageUrl = version.url,
-          chapterid_subid = version.data.chapterid.chapterid_subid)
+          chapterid_subid = version.data.chapterid.chapterid_subid,
+          startOfSection = startOfSection)
         }}
     {% endfor %}
 </div>
