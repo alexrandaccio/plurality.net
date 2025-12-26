@@ -12,7 +12,7 @@ translations:
     chapters: 'Kapitel',
   }
 language: { en: 'deutsch', iso6392B: 'de', locale: '0 2 Informationstechnologie und Demokratie: eine wachsende Kluft' }
-chapterid: { chapterid: 2, chapterid_subid: '2-0', section_title: 'Tei 2 Einführung'
+chapterid: { chapterid: 2, chapterid_subid: '2-0', section_title: 'Einführung' }
 translators: []
 ---
 {% readdynamiccode 'https://raw.githubusercontent.com/GermanPluralityBook/pluralitaet/main/contents/deutsch/02-00%20Informationstechnologie%20und%20Demokratie_eine%20sich%20vergr%C3%B6%C3%9Ferende%20Kluft.md' %}
