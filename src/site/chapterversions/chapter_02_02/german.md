@@ -11,7 +11,7 @@ translations:
     return: 'zurück',
     chapters: 'Kapitel',
   }
-language: { en: 'deutsch', iso6392B: 'de', locale: '2 2 Das Leben einer digitalen Demokratie'
+language: { en: 'deutsch', iso6392B: 'de', locale: '2 2 Das Leben einer digitalen Demokratie'}
 chapterid: { chapterid: 2, chapterid_subid: '2-2', section_title: 'Einführung' }
 translators: []
 ---
