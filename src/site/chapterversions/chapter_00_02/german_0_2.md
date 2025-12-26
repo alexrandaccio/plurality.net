@@ -12,7 +12,7 @@ translations:
     chapters: 'Kapitel',
   }
 language: { en: 'deutsch', iso6392B: 'de', locale: '0 2 Finden Sie ihr Dao' }
-chapterid: { chapterid: 0, chapterid_subid: '0-2', section_title: 'Bevor Du startest'
+chapterid: { chapterid: 0, chapterid_subid: '0-2', section_title: 'Bevor Du startest' }
 translators: []
 ---
 {% readdynamiccode 'https://raw.githubusercontent.com/GermanPluralityBook/pluralitaet/main/contents/deutsch/00-02%20Finden%20Sie%20ihr%20Dao.md' %}
