@@ -11,7 +11,7 @@ translations:
     return: 'zurück',
     chapters: 'Kapitel',
   }
-language: { en: 'deutsch', iso6392B: 'de', locale: '0 2 Informationstechnologie und Demokratie: eine wachsende Kluft' }
+language: { en: 'deutsch', iso6392B: 'de', locale: '2 0 Informationstechnologie und Demokratie: eine wachsende Kluft' }
 chapterid: { chapterid: 2, chapterid_subid: '2-0', section_title: 'Einführung' }
 translators: []
 ---
