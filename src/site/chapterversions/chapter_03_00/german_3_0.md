@@ -12,7 +12,7 @@ translations:
     chapters: 'Kapitel',
   }
 language: { en: 'deutsch', iso6392B: 'de', locale: '3 0 Was ist ⿻?'}
-chapterid: { chapterid: 2, chapterid_subid: '3-0', section_title: 'Pluralität' }
+chapterid: { chapterid: 3, chapterid_subid: '3-0', section_title: 'Pluralität' }
 translators: []
 ---
 {% readdynamiccode 'https://raw.githubusercontent.com/GermanPluralityBook/pluralitaet/main/contents/deutsch/03-00%20Was%20ist%20Pluralit%C3%A4t.md' %}
